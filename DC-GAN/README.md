@@ -4,4 +4,4 @@
 
 The following is a compilation of the Images generated with a standard DC-GAN using the Celeba dataset:
 
-[View Animation](https://github.com/Aneesh-382005/Generative-Adversarial-Networks/blob/main/DC-GAN/FakeCelebrities/animation.html)
+[View Animation](DC-GAN/SavedImages/animation.gif)
